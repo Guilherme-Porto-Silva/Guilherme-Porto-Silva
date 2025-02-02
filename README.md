@@ -10,7 +10,7 @@
 <div style="display: inline_block"></br>
 <img align="center" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="html icon">
 <img align="center" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="css icon">
-<img align="center" src="./scriptLogo.png" alt="js icon" width="79" height="25">
+<img align="center" src="./scriptLogo.png" alt="js icon" width="79" height="28">
   <img align="center" src="./c.png" alt="c icon">
 </div><br/>
 
