@@ -12,7 +12,7 @@
 <img align="center" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="css icon">
 <img align="center" src="./scriptLogo.png" alt="js icon" width="79" height="28">
 <img align="center" src="./c.png" alt="c icon">
-<img align="center" src="./java.png" alt="java icon">
+<img align="center" src="./java.png" alt="java icon" height="28">
 </div><br/>
 
 ## Caso o envio de uma mensagem de forma direta se mostre necessário, utilize o e-mail guiportosilva2@gmail.com
